@@ -54,6 +54,10 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="react" />
       <br>React
     </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48" height="48" alt="figma" />
+      <br>Figma
+    </td>
   </tr>
 </table>
   

@@ -17,12 +17,6 @@
 
 
 
-<!-- Estadísticas
-
-[![Lasfitos's GitHub stats](https://github.com/theerudito/Api-Covid19-React?username=lasfito&hide=prs,issues,contribs&count_private=true&show_icons=true&theme=vue_dark&locale=es&hide_title=false&include_all_commits=true&custom_title=numericos)](https://github.com/anuraghazra/github-readme-stats)
--->
-
- 
   
 
 ## Stack

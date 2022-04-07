@@ -105,7 +105,7 @@ Contáctame por alguno de estos canales:
 - 📫 Por correo a <a href='mailto:erudito.tv@gmail.com '> erudito.tv@gmail.com</a>
 - 🐦 Por Twitter en  <a href="https://twitter.com/theerudito" target="blank"> @theerudito</a>
 - 🤵 Por LinkedIn en <a href="https://www.linkedin.com/in/theerudito/"> in/theerudito </a>
--  Por Instagram en <a href="https://www.instagram.com/theerudito/> in/theerudito </a>
+-  Por Instagram en <a href="https://www.instagram.com/theerudito"/> in/theerudito </a>
 
 ¡O déjame un comentario en <a href="https://www.youtube.com/c/TheErudito"> alguno de mis videos! </a> 
 

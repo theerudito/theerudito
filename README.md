@@ -28,11 +28,8 @@
 
 **Acorde a mi :v**
 
-
- 
-  
-  <table >
-   <tr>
+<table>
+  <tr>
       <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="SASS" />
       <br>HTML
@@ -54,7 +51,13 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" />
       <br>VS Code
     </td>
-         <td align="center" width="96">
+  </tr>
+</table>
+  
+  
+  <table >
+   <tr>    
+       <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="HTML" />
       <br>React
     </td>
@@ -70,7 +73,7 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="mongodb" />
       <br>MongoDB
     </td>
-  </tr>
+      </tr>
        <td align="center" width="96"> 
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="mysql" />
       <br>MySQL

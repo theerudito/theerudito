@@ -17,11 +17,7 @@
 
 **Acorde a Github**
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=theerudito&show_icons=true&hide=html&locale=es&layout=compact&custom_title=" alt="lasfito" /> 
-
-<!--[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lasfito)](https://github.com/anuraghazra/github-readme-stats)
--->
-
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=theerudito&show_icons=true&hide=html&locale=es&layout=compact&custom_title=" alt="jorge" /> 
 
 
 **Acorde a mi :v**
@@ -109,8 +105,9 @@ Contáctame por alguno de estos canales:
 - 📫 Por correo a <a href='mailto:erudito.tv@gmail.com '> erudito.tv@gmail.com</a>
 - 🐦 Por Twitter en  <a href="https://twitter.com/theerudito" target="blank"> @theerudito</a>
 - 🤵 Por LinkedIn en <a href="https://www.linkedin.com/in/theerudito/"> in/theerudito </a>
+-  Por Instagram en <a href="https://www.instagram.com/theerudito/> in/theerudito </a>
 
-¡O déjame un comentario en <a href="https://www.youtube.com/channel/UCwfeUZwjfNsIFqFURiqkLSw"> alguno de mis videos! </a> 
+¡O déjame un comentario en <a href="https://www.youtube.com/c/TheErudito"> alguno de mis videos! </a> 
 
 
 ## Videos recientes

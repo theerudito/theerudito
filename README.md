@@ -2,7 +2,7 @@
 ## Hola 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/_staticvoid?label=Follow)](https://twitter.com/theerudito)
-[![Linkedin: Adrián Salgado](https://img.shields.io/badge/-Adrian%20Salgado-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lasfito/)](https://www.linkedin.com/in/theerudito)
+[![Linkedin: Jorge Loor](https://img.shields.io/badge/-Adrian%20Salgado-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lasfito/)](https://www.linkedin.com/in/theerudito)
 <img src="https://komarev.com/ghpvc/?username=lasfito&label=Profile%20views&color=0e75b6&style=flat" alt="erudito" /> 
 [![wakatime](https://wakatime.com/badge/user/5f64052e-88c6-4b16-a87a-e9f52142e69a.svg)](https://wakatime.com/@5f64052e-88c6-4b16-a87a-e9f52142e69a)
 

@@ -53,17 +53,22 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="HTML" />
       <br>React
     </td>
+       <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="48" height="48" alt="NPM" />
+      <br >NPM
+    </td>
     <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="48" height="48" alt="Firebase" />
       <br>Firebase
     </td>
-    <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="48" height="48" alt="NPM" />
-      <br >NPM
-    </td>
      <td align="center" width="96"> 
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="48" height="48" alt="Markdown" />
-      <br>MarkDown
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="mongodb" />
+      <br>MongoDB
+    </td>
+  </tr>
+       <td align="center" width="96"> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="mysql" />
+      <br>MySQL
     </td>
   </tr>
     

@@ -45,6 +45,11 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS" />
       <br>CSS
     </td>
+     <td align="center" width="96"> 
+        <img src="  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="48" height="48" alt="mysql" />
+      <br>MySQL
+    </td>
+  </tr>
     <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" />
       <br>VS Code
@@ -71,7 +76,6 @@
       <br>MySQL
     </td>
   </tr>
-    
 </table>
 
 

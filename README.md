@@ -10,7 +10,7 @@
 
   - Desarrollador bilingüe de software 
   - 1 años de experiencia en desarrollo full stack (React / Node /)
-  - Revisa mi sitio web en [https://byerudito.web.app/](https://byerudito.web.app/)
+  - Revisa mi sitio web en [https://byerudito.web.app/porfolio](https://byerudito.web.app/porfolio)
   
 
 
@@ -19,7 +19,7 @@
 
 <!-- Estadísticas
 
-[![Lasfitos's GitHub stats](https://github-readme-stats.vercel.app/api?username=lasfito&hide=prs,issues,contribs&count_private=true&show_icons=true&theme=vue_dark&locale=es&hide_title=false&include_all_commits=true&custom_title=numericos)](https://github.com/anuraghazra/github-readme-stats)
+[![Lasfitos's GitHub stats](https://github.com/theerudito/Api-Covid19-React?username=lasfito&hide=prs,issues,contribs&count_private=true&show_icons=true&theme=vue_dark&locale=es&hide_title=false&include_all_commits=true&custom_title=numericos)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
  

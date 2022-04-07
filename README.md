@@ -29,35 +29,7 @@
 **Acorde a mi :v**
 
 
-  <table >
-  <tr>
-    <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="Gatsby" />
-      <br>MySQL
-    </td>
-    
-    <td align="center"  width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="48" height="48" alt="Trello" />
-      <br>Trello
-    </td>
-    <td align="center"  width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node" />
-      <br>Node
-    </td>
-    <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="48" height="48" alt="G. Cloud" />
-      <br>G. Cloud
-    </td>
-    <td align="center"  width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48" alt="Express" />
-      <br>Express
-    </td>
-  </tr>
-  </table>
+ 
   
   <table >
    <tr>

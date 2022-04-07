@@ -91,11 +91,11 @@
 
 
 
-## Boletín
+## Sobre Me
 
-Cada semana comparto con mis suscriptores 1 artículo del mundo tech, 1 recurso de desarrollo y 1 consejo de programación. 
-Es un boletín 100% enfocado en aprendizaje y directo al grano. 
-Puedes suscribirte <a href="http://s.1-2-3.dev"  target="_blank"> aquí </a>
+Hola Soy Jorge Loor de Ecuador amante de ma tegnologias todo lo apendido fue de manera autodidacta y cada dia itento aprender cosas nuevas;
+never give up
+
 
 ## Contacto
 
@@ -110,7 +110,7 @@ Contáctame por alguno de estos canales:
 ¡O déjame un comentario en <a href="https://www.youtube.com/c/TheErudito"> alguno de mis videos! </a> 
 
 
-## proyectos Recientes
+## Proyectos Recientes
 <!-- BLOG-POST-LIST:START -->
 - proyect1 [api-covid-react](https://github.com/theerudito/Api-Covid19-React)
 

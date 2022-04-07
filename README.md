@@ -105,18 +105,18 @@ Contáctame por alguno de estos canales:
 - 📫 Por correo a <a href='mailto:erudito.tv@gmail.com '> erudito.tv@gmail.com</a>
 - 🐦 Por Twitter en  <a href="https://twitter.com/theerudito" target="blank"> @theerudito</a>
 - 🤵 Por LinkedIn en <a href="https://www.linkedin.com/in/theerudito/"> in/theerudito </a>
--  Por Instagram en <a href="https://www.instagram.com/theerudito"/> in/theerudito </a>
+- 📷 Por Instagram en <a href="https://www.instagram.com/theerudito"/> in/theerudito </a>
 
 ¡O déjame un comentario en <a href="https://www.youtube.com/c/TheErudito"> alguno de mis videos! </a> 
 
 
-## Videos recientes
+## proyectos Recientes
 <!-- BLOG-POST-LIST:START -->
-- [Manual de Supervivencia JavaScript para Principiantes](https://www.youtube.com/watch?v=jM1PoDMnbsA)
-- [Entrevista Técnica en Uber - Primer Positivo Faltante](https://www.youtube.com/watch?v=tSykFigZeLo)
-- [Crea una Ventana Modal (PopUp) con HTML](https://www.youtube.com/watch?v=ZMhEVSvSwwk)
-- [Cómo Crear E-Commerce con Firebase y Stripe](https://www.youtube.com/watch?v=ScJ7FdHufm8)
-- [Cómo Crear PWA con React — Mega Tutorial](https://www.youtube.com/watch?v=kMucD68rkio)
+- proyect1 [api-covid-react](https://github.com/theerudito/Api-Covid19-React)
+
+- proyect2 [api-covid-javascript](https://github.com/theerudito/Covid19-JavaScript)
+
+- proyect3 [mypage-react](https://github.com/theerudito/Front-React-PageErudito)
 <!-- BLOG-POST-LIST:END -->
 
 

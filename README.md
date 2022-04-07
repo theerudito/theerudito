@@ -46,7 +46,6 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="48" height="48" alt="mysql" />
       <br>Bootstrap
     </td>
-  </tr>
     <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" />
       <br>VS Code
@@ -73,7 +72,6 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="mongodb" />
       <br>MongoDB
     </td>
-      </tr>
        <td align="center" width="96"> 
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="mysql" />
       <br>MySQL

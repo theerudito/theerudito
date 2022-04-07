@@ -67,7 +67,11 @@
   
   
   <table >
-   <tr>    
+   <tr>   
+      <td align="center" width="96">
+        <img src="https://styled-components.com/logo.png" width="48" height="48" alt="styled-components" />
+      <br >styled-components
+    </td> 
        <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="48" height="48" alt="NPM" />
       <br >NPM

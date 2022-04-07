@@ -1,29 +1,180 @@
-<h1 align="center">Hi 👋, I'm Jorge Loor</h1>
-<h3 align="center">A passionate frontend developer from Ecuador</h3>
 
-- proyect1 [api-covid-react](https://github.com/theerudito/Api-Covid19-React)
+## Hola 👋
 
-- proyect2 [api-covid-javascript](https://github.com/theerudito/Covid19-JavaScript)
+[![Twitter Follow](https://img.shields.io/twitter/follow/_staticvoid?label=Follow)](https://twitter.com/lasf1to)
+[![Linkedin: Adrián Salgado](https://img.shields.io/badge/-Adrian%20Salgado-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lasfito/)](https://www.linkedin.com/in/lasfito)
+<img src="https://komarev.com/ghpvc/?username=lasfito&label=Profile%20views&color=0e75b6&style=flat" alt="lasfito" /> 
+[![wakatime](https://wakatime.com/badge/user/5f64052e-88c6-4b16-a87a-e9f52142e69a.svg)](https://wakatime.com/@5f64052e-88c6-4b16-a87a-e9f52142e69a)
 
-- proyect3 [mypage-react](https://github.com/theerudito/Front-React-PageErudito)
 
-- 👨‍💻 All of my projects are available at [https://byerudito.web.app/porfolio](https://byerudito.web.app/porfolio)
 
-- 📫 How to reach me **erudito.tv@gmail.com**
+  - Desarrollador bilingüe de software 
+  - 2 años de experiencia en desarrollo full stack (React / Node / React Native)
+  - Revisa mi sitio web en [https://lasfi.to](https://lasfi.to)
+  - Creador de contenido en [YouTube](https://www.youtube.com/channel/UCwfeUZwjfNsIFqFURiqkLSw)
+  - Adicional a inglés, hablo un poco de **ruso**.
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1pvTpWKhotcWqk-ko0XzmgV9W2HvcGtA4/view](https://drive.google.com/file/d/1pvTpWKhotcWqk-ko0XzmgV9W2HvcGtA4/view)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/theerudito" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="theerudito" height="30" width="40" /></a>
-<a href="https://twitter.com/theerudito" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="theerudito" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/theerudito" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="theerudito" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/theerudito" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="theerudito" height="30" width="40" /></a>
-<a href="https://codesandbox.com/theerudito" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="theerudito" height="30" width="40" /></a>
-<a href="https://fb.com/theerudito1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="theerudito1" height="30" width="40" /></a>
-<a href="https://instagram.com/theerudito" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="theerudito" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/theerudito" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="theerudito" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+
+
+<!-- Estadísticas
+
+[![Lasfitos's GitHub stats](https://github-readme-stats.vercel.app/api?username=lasfito&hide=prs,issues,contribs&count_private=true&show_icons=true&theme=vue_dark&locale=es&hide_title=false&include_all_commits=true&custom_title=numericos)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
+ 
+  
+
+## Stack
+
+
+**Acorde a Github**
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lasfito&show_icons=true&hide=html&locale=es&layout=compact&custom_title=" alt="lasfito" /> 
+
+<!--[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lasfito)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
+
+
+**Acorde a mi :v**
+
+<table >
+  <tr>
+    <td align="center" width="96"> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
+      <br>Bootstrap
+    </td>   
+    <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+        <img src="https://www.netlify.com/v3/img/components/logomark.png" width="48" height="48" alt="Netlify" />
+      <br>Netlify
+    </td>
+    <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48" height="48" alt="Figma" />
+      <br>Figma
+    </td>
+    <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="48" height="48" alt="MacOs" />
+      <br>MacOs
+    </td>
+  </tr>
+  </table>
+  <table >
+  <tr>
+    <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-plain.svg" width="48" height="48" alt="Gatsby" />
+      <br>Gatsby
+    </td>
+    <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" width="48" height="48" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center"  width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="48" height="48" alt="Trello" />
+      <br>Trello
+    </td>
+    <td align="center"  width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node" />
+      <br>Node
+    </td>
+    <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="48" height="48" alt="G. Cloud" />
+      <br>G. Cloud
+    </td>
+    <td align="center"  width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48" alt="Express" />
+      <br>Express
+    </td>
+  </tr>
+  </table>
+  <table >
+   <tr>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="48" height="48" alt="SASS" />
+      <br>SASS
+    </td>
+    <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" />
+      <br>VS Code
+    </td>
+    <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS" />
+      <br>CSS
+    </td>
+    <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="48" height="48" alt="Firebase" />
+      <br>Firebase
+    </td>
+    <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML" />
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="48" height="48" alt="NPM" />
+      <br >NPM
+    </td>
+     <td align="center" width="96"> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="48" height="48" alt="Markdown" />
+      <br>MarkDown
+    </td>
+  </tr>
+    
+</table>
+
+
+
+## Boletín
+
+Cada semana comparto con mis suscriptores 1 artículo del mundo tech, 1 recurso de desarrollo y 1 consejo de programación. 
+Es un boletín 100% enfocado en aprendizaje y directo al grano. 
+Puedes suscribirte <a href="http://s.1-2-3.dev"  target="_blank"> aquí </a>
+
+## Contacto
+
+Me gusta platicar con desarrolladores entusiastas (y reclutadores, ¿por qué no). 
+Contáctame por alguno de estos canales:
+
+- 📫 Por correo a <a href='mailto:hola@lasfi.to '> hola@lasfi.to</a>
+- 🐦 Por Twitter en  <a href="https://twitter.com/lasf1to" target="blank"> @lasf1to</a>
+- 🤵 Por LinkedIn en <a href="https://www.linkedin.com/in/lasfito/"> in/lasfito </a>
+
+¡O déjame un comentario en <a href="https://www.youtube.com/channel/UCwfeUZwjfNsIFqFURiqkLSw"> alguno de mis videos! </a> 
+
+
+## Videos recientes
+<!-- BLOG-POST-LIST:START -->
+- [Manual de Supervivencia JavaScript para Principiantes](https://www.youtube.com/watch?v=jM1PoDMnbsA)
+- [Entrevista Técnica en Uber - Primer Positivo Faltante](https://www.youtube.com/watch?v=tSykFigZeLo)
+- [Crea una Ventana Modal (PopUp) con HTML](https://www.youtube.com/watch?v=ZMhEVSvSwwk)
+- [Cómo Crear E-Commerce con Firebase y Stripe](https://www.youtube.com/watch?v=ScJ7FdHufm8)
+- [Cómo Crear PWA con React — Mega Tutorial](https://www.youtube.com/watch?v=kMucD68rkio)
+<!-- BLOG-POST-LIST:END -->
+
+
+
+
+
+
+
+
+
+
+
+  

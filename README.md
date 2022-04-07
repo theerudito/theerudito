@@ -1,9 +1,9 @@
 
 ## Hola 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/_staticvoid?label=Follow)](https://twitter.com/theerudito1)
-[![Linkedin: Adrián Salgado](https://img.shields.io/badge/-Adrian%20Salgado-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lasfito/)](https://www.linkedin.com/in/lasfito)
-<img src="https://komarev.com/ghpvc/?username=lasfito&label=Profile%20views&color=0e75b6&style=flat" alt="lasfito" /> 
+[![Twitter Follow](https://img.shields.io/twitter/follow/_staticvoid?label=Follow)](https://twitter.com/theerudito)
+[![Linkedin: Adrián Salgado](https://img.shields.io/badge/-Adrian%20Salgado-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lasfito/)](https://www.linkedin.com/in/theerudito)
+<img src="https://komarev.com/ghpvc/?username=lasfito&label=Profile%20views&color=0e75b6&style=flat" alt="erudito" /> 
 [![wakatime](https://wakatime.com/badge/user/5f64052e-88c6-4b16-a87a-e9f52142e69a.svg)](https://wakatime.com/@5f64052e-88c6-4b16-a87a-e9f52142e69a)
 
 
@@ -151,9 +151,9 @@ Puedes suscribirte <a href="http://s.1-2-3.dev"  target="_blank"> aquí </a>
 Me gusta platicar con desarrolladores entusiastas (y reclutadores, ¿por qué no). 
 Contáctame por alguno de estos canales:
 
-- 📫 Por correo a <a href='mailto:hola@lasfi.to '> hola@lasfi.to</a>
-- 🐦 Por Twitter en  <a href="https://twitter.com/lasf1to" target="blank"> @lasf1to</a>
-- 🤵 Por LinkedIn en <a href="https://www.linkedin.com/in/lasfito/"> in/lasfito </a>
+- 📫 Por correo a <a href='mailto:erudito.tv@gmail.com '> erudito.tv@gmail.com</a>
+- 🐦 Por Twitter en  <a href="https://twitter.com/theerudito" target="blank"> @theerudito</a>
+- 🤵 Por LinkedIn en <a href="https://www.linkedin.com/in/theerudito/"> in/theerudito </a>
 
 ¡O déjame un comentario en <a href="https://www.youtube.com/channel/UCwfeUZwjfNsIFqFURiqkLSw"> alguno de mis videos! </a> 
 

@@ -46,8 +46,8 @@
       <br>CSS
     </td>
      <td align="center" width="96"> 
-        <img src="  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="48" height="48" alt="mysql" />
-      <br>MySQL
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="48" height="48" alt="mysql" />
+      <br>Bootstrap
     </td>
   </tr>
     <td align="center" width="96">

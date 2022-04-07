@@ -9,10 +9,9 @@
 
 
   - Desarrollador bilingüe de software 
-  - 2 años de experiencia en desarrollo full stack (React / Node / React Native)
-  - Revisa mi sitio web en [https://lasfi.to](https://lasfi.to)
-  - Creador de contenido en [YouTube](https://www.youtube.com/channel/UCwfeUZwjfNsIFqFURiqkLSw)
-  - Adicional a inglés, hablo un poco de **ruso**.
+  - 1 años de experiencia en desarrollo full stack (React / Node /)
+  - Revisa mi sitio web en [https://byerudito.web.app/](https://byerudito.web.app/)
+  
 
 
 

@@ -8,7 +8,7 @@
 
   - Desarrollador Jr de software 
   - 1 año de experiencia en desarrollo full stack (React / Node /)
-  - Revisa mi sitio web en [https://byerudito.web.app/porfolio](https://byerudito.web.app/porfolio)
+  - Revisa mi sitio web en [https://byerudito.web.app/porfolio](https://byerudito.web.app/portfolio)
   
 
 

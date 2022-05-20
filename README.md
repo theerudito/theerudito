@@ -1,26 +1,26 @@
 
-## Hola 👋
+## Hi 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/_staticvoid?label=Follow)](https://twitter.com/theerudito)
 [![Linkedin: Jorge Loor](https://img.shields.io/badge/-Jorge%20Loor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/theerudito/)](https://www.linkedin.com/in/theerudito)
 
 
 
-  - Desarrollador Jr de software 
-  - 1 año de experiencia en desarrollo full stack (React / Node /)
-  - Revisa mi sitio web en [https://byerudito.web.app/porfolio](https://byerudito.web.app/portfolio)
+  - Jr Developer 
+  - 1 year of development experience full stack (React / Node /)
+  - Check my site [https://byerudito.web.app/porfolio](https://byerudito.web.app/portfolio)
   
 
 
 ## Stack
 
 
-**Acorde a Github**
+**Proyect in Github**
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=theerudito&show_icons=true&hide=html&locale=es&layout=compact&custom_title=" alt="jorge" /> 
 
 
-**Acorde a mi :v**
+**About me**
 
 <table>
   <tr>
@@ -93,24 +93,24 @@
 
 ## Sobre Me
 
-Hola Soy Jorge Loor de Ecuador amante de ma tegnologias todo lo apendido fue de manera autodidacta y cada dia itento aprender cosas nuevas;
+Hello, I am Jorge Loor from Ecuador, a lover of technology, everything I learned was self-taught and every day I try to learn new things;
 never give up
 
 
-## Contacto
+## Contact Me
 
-Me gusta platicar con desarrolladores entusiastas (y reclutadores, ¿por qué no). 
-Contáctame por alguno de estos canales:
+I like to chat with enthusiastic developers (and recruiters, why not).
+Contact me through one of these channels:
 
-- 📫 Por correo a <a href='mailto:erudito.tv@gmail.com '> erudito.tv@gmail.com</a>
-- 🐦 Por Twitter en  <a href="https://twitter.com/theerudito" target="blank"> @theerudito</a>
-- 🤵 Por LinkedIn en <a href="https://www.linkedin.com/in/theerudito/"> in/theerudito </a>
-- 📷 Por Instagram en <a href="https://www.instagram.com/theerudito"/> in/theerudito </a>
+- 📫 Email <a href='mailto:erudito.tv@gmail.com '> erudito.tv@gmail.com</a>
+- 🐦 Twitter   <a href="https://twitter.com/theerudito" target="blank"> @theerudito</a>
+- 🤵 LinkedIn  <a href="https://www.linkedin.com/in/theerudito/"> in/theerudito </a>
+- 📷 Instagram  <a href="https://www.instagram.com/theerudito"/> in/theerudito </a>
 
-¡O déjame un comentario en <a href="https://www.youtube.com/c/TheErudito"> alguno de mis videos! </a> 
+¡Leave me a comment on <a href="https://www.youtube.com/c/TheErudito"> some my videos </a> 
 
 
-## Proyectos Recientes
+## Recent projects
 <!-- BLOG-POST-LIST:START -->
 - proyect1 [api-covid-react](https://github.com/theerudito/Api-Covid19-React)
 

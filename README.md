@@ -88,12 +88,7 @@ Skills
       <br>MySQL
     </td>
      
-      <td align="center" width="96"> 
-        <img src="
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-          " width="48" height="48" alt="git" />
-      <br>Git
-    </td>
+   
      
        
     

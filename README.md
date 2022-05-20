@@ -90,6 +90,11 @@ Skills
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="git" />
       <br>Git
     </td>
+    </td>
+       <td align="center" width="96"> 
+            <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg](https://firebasestorage.googleapis.com/v0/b/imagenes-cd065.appspot.com/o/tecnologias%2Fgithub-original.svg?alt=media&token=893cc37d-d6b4-43d2-9ee3-f3eedcabf4bb)" width="48" height="48" alt="github" />
+      <br>GitHub
+    </td>
   </tr>
 </table>
 

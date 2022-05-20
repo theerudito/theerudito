@@ -77,13 +77,22 @@ Skills
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="48" height="48" alt="Firebase" />
       <br>Firebase
     </td>
+     
      <td align="center" width="96"> 
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="mongodb" />
       <br>MongoDB
     </td>
+     
        <td align="center" width="96"> 
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="mysql" />
       <br>MySQL
+    </td>
+     
+      <td align="center" width="96"> 
+        <img src="
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+          " width="48" height="48" alt="git" />
+      <br>Git
     </td>
      
        

@@ -15,12 +15,11 @@
 ## Stack
 
 
-**Proyect in Github**
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=theerudito&show_icons=true&hide=html&locale=es&layout=compact&custom_title=" alt="jorge" /> 
 
 
-**About me**
+*Skill**
 
 <table>
   <tr>
@@ -91,7 +90,7 @@
 
 
 
-## Sobre Me
+## About me
 
 Hello, I am Jorge Loor from Ecuador, a lover of technology, everything I learned was self-taught and every day I try to learn new things;
 never give up

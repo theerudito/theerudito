@@ -86,12 +86,7 @@ Skills
       <br>MySQL
     </td>
      
-       </td>
-       <td align="center" width="96"> 
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/git.svg" width="48" height="48" alt="mysql" />
-      <br>MySQL
-    </td>
-    
+       
     
   </tr>
 </table>

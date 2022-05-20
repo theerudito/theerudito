@@ -70,7 +70,7 @@ Skills
       <br >NPM
     </td>
     <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48" alt="express" />
+        <img src="https://firebasestorage.googleapis.com/v0/b/imagenes-cd065.appspot.com/o/tecnologias%2Fexpress-original.svg?alt=media&token=c1a53200-b73c-4091-9fc5-2ca92f07326d" width="48" height="48" alt="express" />
       <br >Express
     </td>
     <td align="center" width="96">

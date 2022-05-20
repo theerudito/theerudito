@@ -19,7 +19,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=theerudito&show_icons=true&hide=html&locale=es&layout=compact&custom_title=" alt="jorge" /> 
 
 
-Skill
+Skills
 
 <table>
   <tr>

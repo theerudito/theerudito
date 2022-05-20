@@ -1,5 +1,5 @@
 
-## Hi  my name Es Jorge From Ecuador 👋
+## Hi  my name is Jorge From Ecuador 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/_staticvoid?label=Follow)](https://twitter.com/theerudito)
 [![Linkedin: Jorge Loor](https://img.shields.io/badge/-Jorge%20Loor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/theerudito/)](https://www.linkedin.com/in/theerudito)

@@ -4,6 +4,8 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/_staticvoid?label=Follow)](https://twitter.com/theerudito)
 [![Linkedin: Jorge Loor](https://img.shields.io/badge/-Jorge%20Loor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/theerudito/)](https://www.linkedin.com/in/theerudito)
 
+![](https://komarev.com/ghpvc/?username=your-github-theerudito&label=PROFILE+VIEWS)
+
 
 
   - Jr Developer 

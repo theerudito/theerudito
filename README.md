@@ -3,10 +3,9 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/_staticvoid?label=Follow)](https://twitter.com/theerudito)
 [![Linkedin: Jorge Loor](https://img.shields.io/badge/-Jorge%20Loor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/theerudito/)](https://www.linkedin.com/in/theerudito)
-
 ![](https://komarev.com/ghpvc/?username=your-github-theerudito&label=PROFILE+VIEWS)
 
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=gazff)](https://github.com/gazf/github-readme-twitter)
+
 
   - Jr Developer 
   - 1 year of development experience full stack (React / Node /)
@@ -19,8 +18,6 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theerudito&layout=compact)](https://github.com/theerudito/github-readme-stats)
-
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=theerudito)](https://git.io/streak-stats)
 
 

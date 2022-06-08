@@ -6,7 +6,7 @@
 
 ![](https://komarev.com/ghpvc/?username=your-github-theerudito&label=PROFILE+VIEWS)
 
-
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=gazff)](https://github.com/gazf/github-readme-twitter)
 
   - Jr Developer 
   - 1 year of development experience full stack (React / Node /)

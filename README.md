@@ -19,6 +19,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theerudito&layout=compact)](https://github.com/theerudito/github-readme-stats)
 
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+
 
 
 Skills

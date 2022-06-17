@@ -51,7 +51,7 @@ Skills
       <br>React
     </td>
       <td align="center" width="96">
-        <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg)" width="48" height="48" alt="figma" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="48" height="48" alt="figma" />
       <br>Figma
     </td>
     <td align="center" width="96">

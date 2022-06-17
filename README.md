@@ -67,11 +67,11 @@ Skills
   
   
   <table >
-  <td align="center" width="96">
+   <tr>   
+     <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="typescript" />
       <br>TypeScript
     </td>
-   <tr>   
       <td align="center" width="96">
         <img src="https://styled-components.com/logo.png" width="48" height="48" alt="styled-components" />
       <br >StyledC

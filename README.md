@@ -52,17 +52,25 @@ Skills
     </td>
       <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="48" height="48" alt="figma" />
-      <br>Figma
+      <br>SASS
     </td>
     <td align="center" width="96">
         <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="48" height="48" alt="figma" />
       <br>Illustrator
+    </td>
+    <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48" height="48" alt="figma" />
+      <br>Figma
     </td>
   </tr>
 </table>
   
   
   <table >
+  <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="typescript" />
+      <br>TypeScript
+    </td>
    <tr>   
       <td align="center" width="96">
         <img src="https://styled-components.com/logo.png" width="48" height="48" alt="styled-components" />

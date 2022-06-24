@@ -132,9 +132,9 @@ Contact me through one of these channels:
 
 ## Recent projects
 <!-- BLOG-POST-LIST:START -->
-- proyect1 [api-covid-react](https://github.com/theerudito/Api-Covid19-React)
+- proyect1 [ecommerce-react](https://github.com/theerudito/ecommerce-react)
 
-- proyect2 [api-covid-javascript](https://github.com/theerudito/Covid19-JavaScript)
+- proyect2 [api-covid-react](https://github.com/theerudito/Api-Covid19-React)
 
 - proyect3 [mypage-react](https://github.com/theerudito/Front-React-PageErudito)
 <!-- BLOG-POST-LIST:END -->

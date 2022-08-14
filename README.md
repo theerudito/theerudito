@@ -89,7 +89,7 @@ Skills
       <br>Firebase
     </td>
      <td align="center" width="96"> 
-        <img src="https://firebasestorage.googleapis.com/v0/b/imagenes-cd065.appspot.com/o/tecnologias%2Fmongodb-original.svg?alt=media&token=a0fdbb7f-fa57-4bc5-a16e-f07080f45302" />
+        <img src="https://firebasestorage.googleapis.com/v0/b/imagenes-cd065.appspot.com/o/tecnologias%2Fmongodb-original.svg?alt=media&token=a0fdbb7f-fa57-4bc5-a16e-f07080f45302" width="48" height="48" alt="mongo"/>
       <br>MongoDB
     </td>
        <td align="center" width="96"> 

@@ -10,16 +10,17 @@
   - Jr Developer 
   - 1 year of development experience full stack (React / Node /)
   - Check my site [https://byerudito.web.app/porfolio](https://byerudito.web.app/portfolio)
-  
+
+## Insignias
 <table>
   <tr>
       <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/theerudito/theerudito/main/1.png" width="48" height="48" alt="1" />
-      <br>HTML
+      <br>
     </td>
        <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/theerudito/theerudito/main/2.png" width="48" height="48" alt="SASS" />
-      <br>JavaScript
+      <br>
     </td>
   </tr>
 </table>

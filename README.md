@@ -14,11 +14,11 @@
 <table>
   <tr>
       <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="SASS" />
+        <img src="https://raw.githubusercontent.com/theerudito/theerudito/main/1.png" width="48" height="48" alt="1" />
       <br>HTML
     </td>
        <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="SASS" />
+        <img src="https://raw.githubusercontent.com/theerudito/theerudito/main/2.png" width="48" height="48" alt="SASS" />
       <br>JavaScript
     </td>
   </tr>

@@ -11,7 +11,7 @@
   - 1 year of development experience full stack (React / Node /)
   - Check my site [https://byerudito.web.app/porfolio](https://byerudito.web.app/portfolio)
 
-## Insignias
+## Oracle Next Education
 <table>
   <tr>
       <td align="center" width="96">

@@ -11,7 +11,8 @@
   - 1 year of development experience full stack (React / Node /)
   - Check my site [https://byerudito.web.app/porfolio](https://byerudito.web.app/portfolio)
   
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="SASS" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="SASS" />
 
 ## GitHub
 

@@ -22,6 +22,16 @@
         <img src="https://raw.githubusercontent.com/theerudito/theerudito/main/2.png" width="48" height="48" alt="SASS" />
       <br>
     </td>
+     </td>
+       <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/theerudito/theerudito/main/2.png" width="48" height="48" alt="SASS" />
+      <br>
+    </td>
+     </td>
+       <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/theerudito/theerudito/main/2.png" width="48" height="48" alt="SASS" />
+      <br>
+    </td>
   </tr>
 </table>
 

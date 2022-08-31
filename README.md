@@ -19,17 +19,17 @@
       <br>
     </td>
        <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/theerudito/theerudito/main/2.png" width="48" height="48" alt="SASS" />
+        <img src="https://raw.githubusercontent.com/theerudito/theerudito/main/2.png" width="48" height="48" alt="2" />
       <br>
     </td>
      </td>
        <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/theerudito/theerudito/main/2.png" width="48" height="48" alt="SASS" />
+        <img src="https://raw.githubusercontent.com/theerudito/theerudito/main/3.png" width="48" height="48" alt="3" />
       <br>
     </td>
      </td>
        <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/theerudito/theerudito/main/2.png" width="48" height="48" alt="SASS" />
+        <img src="https://raw.githubusercontent.com/theerudito/theerudito/main/2.png" width="48" height="48" alt="4" />
       <br>
     </td>
   </tr>

@@ -8,7 +8,7 @@
 
 
   - Jr Developer 
-  - 1 year of development experience full stack (React / Node /)
+  - 2 year of development experience full stack (React / Node /)
   - Check my site [https://byerudito.web.app/porfolio](https://byerudito.web.app/portfolio)
 
 ## Oracle Next Education Group #3

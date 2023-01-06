@@ -42,7 +42,8 @@
 ## GitHub
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theerudito&layout=compact)](https://github.com/theerudito/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theerudito&layout=compact count=8&count_private=false&layout=compact&theme=react&hide_border=true&bg_color=0D1117)]
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theerudito&layout=compact)](https://github.com/theerudito/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=theerudito)](https://git.io/streak-stats)

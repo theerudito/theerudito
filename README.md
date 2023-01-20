@@ -85,7 +85,7 @@ Skills
       <br>C#
     </td>
     <td align="center" width="96">
-        <img src="https://firebasestorage.googleapis.com/v0/b/imagenes-cd065.appspot.com/o/tecnologias%2Ficons8-python-48.svg?alt=media&token=c0715e43-fb89-4e5b-877e-80ab1d800d1f)" width="48" height="48" alt="figma" />
+        <img src="https://firebasestorage.googleapis.com/v0/b/imagenes-cd065.appspot.com/o/tecnologias%2F62c434e92163db781514ed1b.png?alt=media&token=8ca674f2-2205-45b4-9677-dd03c006aac9" width="48" height="48" alt="figma" />
       <br>Python
     </td>
     <td align="center" width="96">

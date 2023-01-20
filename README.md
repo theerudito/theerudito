@@ -86,7 +86,7 @@ Skills
     </td>
     <td align="center" width="96">
         <img src="https://firebasestorage.googleapis.com/v0/b/imagenes-cd065.appspot.com/o/tecnologias%2F62c434e92163db781514ed1b.png?alt=media&token=8ca674f2-2205-45b4-9677-dd03c006aac9" width="48" height="48" alt="figma" />
-      <br>Python
+      <br>Xamarin
     </td>
     <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48" height="48" alt="figma" />

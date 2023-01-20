@@ -85,7 +85,7 @@ Skills
       <br>C#
     </td>
     <td align="center" width="96">
-        <img src="https://firebasestorage.googleapis.com/v0/b/imagenes-cd065.appspot.com/o/tecnologias%2F62c434e92163db781514ed1b.png?alt=media&token=8ca674f2-2205-45b4-9677-dd03c006aac9" width="48" height="48" alt="figma" />
+        <img src="https://firebasestorage.googleapis.com/v0/b/imagenes-cd065.appspot.com/o/tecnologias%2F62c434e92163db781514ed1b.png?alt=media&token=8ca674f2-2205-45b4-9677-dd03c006aac9" width="48" height="48" alt="xamarin" />
       <br>Xamarin
     </td>
     <td align="center" width="96">
@@ -103,8 +103,8 @@ Skills
       <br>TS
     </td>
       <td align="center" width="96">
-        <img src="https://styled-components.com/logo.png" width="48" height="48" alt="styled-components" />
-      <br >StyledC
+        <img src="https://firebasestorage.googleapis.com/v0/b/imagenes-cd065.appspot.com/o/tecnologias%2Fdocker.webp?alt=media&token=e13bc510-1e7c-45ff-9cbe-8a8357267a55" width="48" height="48" alt="docker" />
+      <br >Docker
     </td> 
        <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="48" height="48" alt="NPM" />

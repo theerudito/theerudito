@@ -107,7 +107,7 @@ Skills
       <br >Docker
     </td> 
        <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Unity_Technologies_logo.svg" width="48" height="48" alt="unity" />
+        <img src="https://seeklogo.com/images/U/unity-logo-988A22E703-seeklogo.com.png" width="48" height="48" alt="unity" />
       <br >Unity
     </td>
     <td align="center" width="96">

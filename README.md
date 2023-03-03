@@ -111,11 +111,11 @@ Skills
       <br >Unity
     </td>
     <td align="center" width="96">
-        <img src="https://firebasestorage.googleapis.com/v0/b/imagenes-cd065.appspot.com/o/tecnologias%2Fexpress-original.svg?alt=media&token=c1a53200-b73c-4091-9fc5-2ca92f07326d" width="48" height="48" alt="express" />
-      <br >Express
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="48" height="48" alt="express" />
+      <br >.Net 
     </td>
     <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="48" height="48" alt="Firebase" />
+        <img src="https://firebasestorage.googleapis.com/v0/b/imagenes-cd065.appspot.com/o/tecnologias%2Ffirebase-plain.svg?alt=media&token=fe5e4430-7580-4a62-96a9-135ce7de25e3" width="48" height="48" alt="Firebase" />
       <br>Firebase
     </td>
      <td align="center" width="96"> 

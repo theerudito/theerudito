@@ -111,7 +111,7 @@ Skills
       <br >Unity
     </td>
     <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="48" height="48" alt="express" />
+        <img src="https://firebasestorage.googleapis.com/v0/b/imagenes-cd065.appspot.com/o/tecnologias%2Fdotnetcore-original.svg?alt=media&token=2d501a31-8164-439f-b037-3f9bec543836" width="48" height="48" alt="express" />
       <br >.Net 
     </td>
     <td align="center" width="96">

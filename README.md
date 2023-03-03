@@ -107,8 +107,8 @@ Skills
       <br >Docker
     </td> 
        <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="48" height="48" alt="NPM" />
-      <br >NPM
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="48" height="48" alt="unity" />
+      <br >Unity
     </td>
     <td align="center" width="96">
         <img src="https://firebasestorage.googleapis.com/v0/b/imagenes-cd065.appspot.com/o/tecnologias%2Fexpress-original.svg?alt=media&token=c1a53200-b73c-4091-9fc5-2ca92f07326d" width="48" height="48" alt="express" />

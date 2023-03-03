@@ -107,7 +107,7 @@ Skills
       <br >Docker
     </td> 
        <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="48" height="48" alt="unity" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Unity_Technologies_logo.svg" width="48" height="48" alt="unity" />
       <br >Unity
     </td>
     <td align="center" width="96">

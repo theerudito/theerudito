@@ -7,7 +7,7 @@
 
 
 
-  - Jr Developer 
+  - Software Developer With .NET
   - 2 year of development experience full stack 
   - Check my site [https://byerudito.web.app/porfolio](https://byerudito.web.app/portfolio)
 

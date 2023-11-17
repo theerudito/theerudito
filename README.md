@@ -99,8 +99,8 @@ Skills
   <table >
    <tr>   
      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="typescript" />
-      <br>TS
+        <img src="https://seeklogo.com/images/B/blazor-logo-B6B0844B72-seeklogo.com.png" width="48" height="48" alt="typescript" />
+      <br>Blazor
     </td>
       <td align="center" width="96">
         <img src="https://firebasestorage.googleapis.com/v0/b/imagenes-cd065.appspot.com/o/tecnologias%2Fdocker.webp?alt=media&token=e13bc510-1e7c-45ff-9cbe-8a8357267a55" width="48" height="48" alt="docker" />

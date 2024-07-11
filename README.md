@@ -9,7 +9,7 @@
 
   - Software Developer With .NET
   - 2 year of development experience full stack 
-  - Check my site [https://byerudito.web.app/porfolio](https://jorgeloor-dev.web.app/portfolio)
+  - Check my site [https://jorgeloor-dev.web.app/portfolio](https://jorgeloor-dev.web.app/portfolio)
 
 ## Oracle Next Education Group #3
 <table>

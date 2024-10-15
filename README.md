@@ -7,7 +7,7 @@
 
 
 
-  - Software Developer With .NET And WinDev With Wlanguaje
+  - Software Developer With .NET and WinDev with Wlanguaje
   - 3 year of development experience full stack 
   - Check my site [https://jorgeloor-dev.web.app/portfolio](https://jorgeloor-dev.web.app/portfolio)
 

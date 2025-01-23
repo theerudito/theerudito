@@ -5,8 +5,6 @@
 [![Linkedin: Jorge Loor](https://img.shields.io/badge/-Jorge%20Loor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/theerudito/)](https://www.linkedin.com/in/theerudito)
 ![](https://komarev.com/ghpvc/?username=your-github-theerudito&label=PROFILE+VIEWS)
 
-
-
   - Software Developer With .NET, WinDev with Wlanguaje and Go
   - 3 year of development experience full stack 
   - Check my site [https://jorgeloor-dev.web.app/portfolio](https://jorgeloor-dev.web.app/portfolio)
@@ -41,12 +39,9 @@
 
 ## GitHub
 
-
-
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=theerudito&hide=contribs,prs)
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/theerudito/github-readme-stats)
 
 Skills
 

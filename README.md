@@ -85,8 +85,8 @@ Skills
       <br>C#
     </td>
     <td align="center" width="96">
-        <img src="https://firebasestorage.googleapis.com/v0/b/imagenes-cd065.appspot.com/o/tecnologias%2F62c434e92163db781514ed1b.png?alt=media&token=8ca674f2-2205-45b4-9677-dd03c006aac9" width="48" height="48" alt="xamarin" />
-      <br>Xamarin
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" width="48" height="48" alt="xamarin" />
+      <br>Go
     </td>
     <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48" height="48" alt="figma" />
@@ -99,7 +99,7 @@ Skills
   <table >
    <tr>   
      <td align="center" width="96">
-        <img src="https://seeklogo.com/images/B/blazor-logo-B6B0844B72-seeklogo.com.png" width="48" height="48" alt="typescript" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Blazor.png" width="48" height="48" alt="blazor" />
       <br>Blazor
     </td>
       <td align="center" width="96">
@@ -112,10 +112,10 @@ Skills
     </td>
     <td align="center" width="96">
         <img src="https://firebasestorage.googleapis.com/v0/b/imagenes-cd065.appspot.com/o/tecnologias%2Fdotnetcore-original.svg?alt=media&token=2d501a31-8164-439f-b037-3f9bec543836" width="48" height="48" alt="express" />
-      <br >.Net 
+      <br >WinDev
     </td>
     <td align="center" width="96">
-        <img src="https://firebasestorage.googleapis.com/v0/b/imagenes-cd065.appspot.com/o/tecnologias%2Ffirebase-plain.svg?alt=media&token=fe5e4430-7580-4a62-96a9-135ce7de25e3" width="48" height="48" alt="Firebase" />
+        <img src="https://windev.com/img/logo-pcsoft.svg" width="48" height="48" alt="Firebase" />
       <br>Firebase
     </td>
      <td align="center" width="96"> 

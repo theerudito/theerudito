@@ -44,7 +44,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theerudito&langs_count=8&count_private=false&layout=compact&theme=react&hide_border=true&bg_color=0D1117)](https://github.com/theerudito/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
 
 
 

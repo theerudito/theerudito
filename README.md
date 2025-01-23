@@ -111,11 +111,11 @@ Skills
       <br >Unity
     </td>
     <td align="center" width="96">
-        <img src="https://firebasestorage.googleapis.com/v0/b/imagenes-cd065.appspot.com/o/tecnologias%2Fdotnetcore-original.svg?alt=media&token=2d501a31-8164-439f-b037-3f9bec543836" width="48" height="48" alt="express" />
+        <img src="https://windev.com/img/logo-pcsoft.svg " width="48" height="48" alt="express" />
       <br >WinDev
     </td>
     <td align="center" width="96">
-        <img src="https://windev.com/img/logo-pcsoft.svg" width="48" height="48" alt="Firebase" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="48" height="48" alt="Firebase" />
       <br>Firebase
     </td>
      <td align="center" width="96"> 

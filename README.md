@@ -41,7 +41,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=theerudito&hide=contribs,prs)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/theerudito/github-readme-stats)
 
 Skills
 

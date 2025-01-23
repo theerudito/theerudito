@@ -111,7 +111,7 @@ Skills
       <br >Unity
     </td>
     <td align="center" width="96">
-        <img src="https://windev.com/img/logo-pcsoft.svg " width="48" height="48" alt="express" />
+        <img src="https://windev.com/img/logo-pcsoft.svg" width="48" height="48" alt="windev" />
       <br >WinDev
     </td>
     <td align="center" width="96">

@@ -102,7 +102,7 @@ Skills
       <br >Unity
     </td>
     <td align="center" width="96">
-        <img src="https://www.windev-us.com/ext/package-windev-mobile.png" width="48" height="48" alt="windev" />
+        <img src="https://windev.com/img/2024/logo_windev-suite-saas_icone.svg" width="48" height="48" alt="windev" />
       <br >WinDev
     </td>
     <td align="center" width="96">

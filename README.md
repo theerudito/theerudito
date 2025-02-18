@@ -60,8 +60,8 @@ Skills
       <br>CSS
     </td>
      <td align="center" width="96"> 
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="48" height="48" alt="mysql" />
-      <br>Bootstrap
+        <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Godot_logo.svg" width="48" height="48" alt="mysql" />
+      <br>Godot Engine
     </td>
     <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" />
@@ -99,7 +99,7 @@ Skills
     </td> 
        <td align="center" width="96">
         <img src="https://firebasestorage.googleapis.com/v0/b/imagenes-cd065.appspot.com/o/tecnologias%2Funity-original.svg?alt=media&token=a343e4d8-5efd-4d60-a5c2-d3661f0484f8" width="48" height="48" alt="unity" />
-      <br >Unity
+      <br >Unity Engine
     </td>
     <td align="center" width="96">
         <img src="https://windev.com/img/2024/logo_windev-suite-saas_icone.svg" width="48" height="48" alt="windev" />

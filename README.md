@@ -114,8 +114,8 @@ Skills
       <br>MongoDB
     </td>
        <td align="center" width="96"> 
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="mysql" />
-      <br>MySQL
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="48" height="48" alt="mysql" />
+      <br>SQL
     </td>
      </td>
        <td align="center" width="96"> 

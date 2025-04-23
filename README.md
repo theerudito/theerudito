@@ -41,7 +41,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=theerudito&hide=contribs,prs)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theerudito&layout=compact&cache_seconds=0)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theerudito&layout=compact&cache_seconds=1)
 
 Skills
 
